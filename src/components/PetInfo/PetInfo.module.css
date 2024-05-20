@@ -1,0 +1,15 @@
+  .petImage {
+    width: 1700px;
+    height: auto;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .petText {
+    text-align: left;
+  }
+  
+  .petText h2, .petText p {
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,15 @@
+p {
+    font-size: 20px;
+}
+
+.filmInfo {
+    text-align: left;
+  }
+  
+.filmPoster {
+  width: 400px;
+  height: auto;
+  margin-right: -230px;
+  border-radius: 8px;
+    
+}
